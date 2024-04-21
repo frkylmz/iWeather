@@ -13,8 +13,6 @@
 
 ###
 
-![vivaldi_8kua0fGM3U](https://github.com/frkylmz/iWeather/assets/70021191/924a2aeb-46c8-406e-8245-441e98875743)
-![vivaldi_vsLN5XBxig](https://github.com/frkylmz/iWeather/assets/70021191/ffdc0387-02b2-4663-81fe-ba29d381b5c0)
-![pt9y1ucN8w](https://github.com/frkylmz/iWeather/assets/70021191/7c4f8e2f-6d67-4bfa-a6a1-33544f5c52bb)
-
-
+![vivaldi_8kua0fGM3U](https://github.com/frkylmz/iWeather/assets/70021191/3aff67c3-f32b-4a4f-9806-f5093c69cda0)
+![vivaldi_vsLN5XBxig](https://github.com/frkylmz/iWeather/assets/70021191/ba8ad8b5-b21a-442d-8bf3-75c5f3b726e5)
+![pt9y1ucN8w](https://github.com/frkylmz/iWeather/assets/70021191/6687ebbd-9941-4856-9248-5a12d67b1e73)
