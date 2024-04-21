@@ -1,4 +1,4 @@
-<h1 align="center">ReactJS Weather App</h1>
+<h1 align="center">iWeather // ReactJS Weather App</h1>
 
 ###
 
